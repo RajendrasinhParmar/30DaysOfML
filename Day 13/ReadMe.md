@@ -22,3 +22,17 @@ The associated exercise with the forth lesson of the course is provided in [Exer
 
 Data used for the exercise is available under the folder [home-data-for-ml-course](./home-data-for-ml-course)
 Submission for the exercise is available in [submission_pipelines.csv](./home-data-for-ml-course/submission_pipelines.csv)
+
+
+## Intermediate Machine Learning Lesson 5
+### Cross-Validation
+
+In this tutorial, you will learn how to use cross-validation for better measures of model performance.
+
+Follow the notebook [Cross-Validation](./cross-validation.ipynb) for lesson details.
+
+#### Exercise
+
+As a part of the exercise for the fifth lesson we have worked on cross-validation examples.
+
+The associated exercise with the fifth lesson of the course is provided in [Exercise: Cross-Validation](./exercise-cross-validation.ipynb)
