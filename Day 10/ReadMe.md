@@ -15,8 +15,16 @@ In this lesson there are following concepts
 
 2. Underfitting - When we capture patterns and train the model with very small number of chunks with so many different verity of data present in a single chunks, the model will not fit properly and will provide inaccurate results.
 
+Follow the notebook [Overfitting and Underfitting](./Lesson-5_underfitting-and-overfitting.ipynb) for lesson details.
+
+The associated exercise with the fifth lesson of the course is provided in [Exercise: Underfitting and Overfitting](./exercise-underfitting-and-overfitting.ipynb)
+
 ## Introduction to ML Course Lesson 6
 
 ### Random Forests
 
 In this lesson we learn the RandomForestRegressor from sklearn library.
+
+Follow the notebook [Random Forests](./Lesson-6_random-forests.ipynb) for lesson details.
+
+The associated exercise with the sixth lesson of the course is provided in [Exercise: Random Forests](./exercise-random-forests.ipynb)
