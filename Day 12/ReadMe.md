@@ -66,3 +66,11 @@ There are three approaches to handle categorical data.
 3. One-Hot Encoding - The categorical variables that does not have intrinsic ranking are called `nominal variables`.
 
 Follow the notebook [Categorical Variables](./categorical-variables.ipynb) for lesson details.
+
+#### Exercise
+
+As an Exercise of the second lesson I have worked on all three methods to handle categorical data.
+
+After the completion of the exercise, I worked on the optional exercise to clean up the data for the test data set `X_test` using all the methods I've learned till now.
+
+The associated exercise with the second lesson of the course is provided in [Exercise: Categorical Variables](./exercise-categorical-variables.ipynb)
