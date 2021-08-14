@@ -29,6 +29,8 @@ The associated exercise with the first lesson of the course is provided in [Exer
 
 Submission for the exercise is available in [submission_introduction.csv](./home-data-for-ml-course/submission.csv)
 
+## Intermediate Machine Learning Lesson 2
+
 ### Missing Values
 
 In this tutorial, you will learn three approaches to dealing with missing values. Then you'll compare the effectiveness of these approaches on a real-world dataset.
@@ -48,3 +50,19 @@ Then for the final exercise I've used `An Extension to Imputation` approach to t
 The associated exercise with the second lesson of the course is provided in [Exercise: Missing Values](./exercise-missing-values.ipynb)
 
 Submission for the exercise is available in [submission_missing_values.csv](./home-data-for-ml-course/submission_missing_values.csv)
+
+## Intermediate Machine Learning Lesson 3
+
+### Categorical Variables
+
+In this tutorial, you will learn what a categorical variable is, along with three approaches for handling this type of data.
+
+Categorical data is any kind of data that takes limited number of values.
+
+As most of the models will not directly support categorical data we need to process them first.
+There are three approaches to handle categorical data.
+1. Drop Categorical Variables
+2. Ordinal Encoding - The categorical variables that has clear ordering are called `Ordinal variables`.
+3. One-Hot Encoding - The categorical variables that does not have intrinsic ranking are called `nominal variables`.
+
+Follow the notebook [Categorical Variables](./categorical-variables.ipynb) for lesson details.
